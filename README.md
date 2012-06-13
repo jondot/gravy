@@ -12,11 +12,16 @@ Technically, Gravy is designed to be used either between your internal systems,
 or directly infront of users (you'll need good redundancy and CDN to be
 effective).
 
+If you like these kind of things, I've also have the
+packcss/packjs/packimg family of services [living here](https://github.com/jondot/packs).
+
+
 ## Usage
 
 See live link: [http://gravy-demo.herokuapp.com/grainysubhatch/7b..30?s=48](http://gravy-demo.herokuapp.com/grainysubhatch/7bab8ed9cad2d098076b61b7cc3b8030?s=48)
 
 Or try it yourself:
+
     $ sudo apt-get install imagemagick # only if you don't already have it.
     $ git clone git://github.com/jondot/gravy.git
     $ cd gravy; npm install
