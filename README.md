@@ -2,6 +2,12 @@
 
 Sweet sauce for your gravatars, in real-time.
 
+<img src="https://raw.github.com/jondot/gravy/master/templates/grainysubhatch/tmpl.png" /> + <img src="https://raw.github.com/jondot/gravy/master/templates/grainysubhatch/mask.png" /> + <img src="http://www.gravatar.com/avatar/7bab8ed9cad2d098076b61b7cc3b8030?s=48" /><br/>
+becomes,
+<br/>
+<img src="https://raw.github.com/jondot/gravy/master/examples/1.png"/><br/>
+
+
 It takes two images - mask and template and overlays them on your
 original gravatar.This makes it easy, for example, to (1) make any-shape
 gravatars (2) decorate with any wacky frame.
