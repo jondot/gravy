@@ -1,10 +1,10 @@
 
 body{
-  background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAPElEQVQYV2PU1tb+z4AE/v37x8DExIQsxPDz508GxgFUqKmpieJGFMdBOb9//x5QNxIdPCoqKgQ9A/ITAMPbQTn8xJEVAAAAAElFTkSuQmCC);
+  background: #292620;
 }
 
 .hero-unit h1{
-  font-size: 10em;
+  font-size: 11em;
   font-family: 'Leckerli One';
   font-weight:normal;
   color: #E54028;
