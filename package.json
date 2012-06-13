@@ -1,0 +1,27 @@
+{
+    "name": "gravy",
+    "version": "0.0.1",
+    "description": "Make marker avatars",
+    "homepage": "http://github.com/jondot/gravy",
+    "author": "Dotan Nahum <jondotan@gmail.com>",
+    "repository":
+    {
+        "type": "git",
+        "url": "http://github.com/jondot/gravy"
+    },
+    "bugs":
+    {
+        "mail": "jondotan@gmail.com",
+        "url": "http://github.com/jondot/gravy/issues"
+    },
+    "dependencies":
+    {
+        "request": ">= 0.0.4",
+        "imagemagick": "git://github.com/jondot/node-imagemagick.git",
+        "temp":">=0.0.1",
+        "express":">= 2.0.0",
+        "colors":">= 0.0.1",
+        "underscore":">= 0.0.1"
+    },
+    "engines": { "node": ">=0.4.0" }
+}
